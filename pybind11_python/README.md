@@ -3,7 +3,7 @@
 Straw is library which allows rapid streaming of contact data from .hic files. 
 To learn more about Hi-C data and 3D genomics, visit https://aidenlab.gitbook.io/juicebox/
 
-Once you've installed the library with `pip install hic-straw`, you can import your code with `import hicstraw`. 
+Once you've installed the library with `pip install hic-straw`, you can import your code with `import hicstraw`,  or `pip install strawC-0.0.8-cp38-cp38-linux_x86_64.whl` in this folder.
 
 ## New usage to directly get numpy matrix
 
